@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Laravel, Nodejs, Spring, etc.**
 - 👨‍💻 All of my projects are available at [github](https://github.com/hoanglonggap00?tab=repositories)
 - 📫 How to reach me: **nhatlinh161232@gmail.com**
-- ⚡ Fun fact: **I love sport 🏀 and online game 🔫></img>**
+- ⚡ Fun fact: **I love sport 🏀 and online game 🔫**
 
 ### 🛠 &nbsp;Languages and Tools
 
