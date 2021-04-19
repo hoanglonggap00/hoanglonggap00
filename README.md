@@ -7,9 +7,6 @@
 </p>
 
 - 🌱 I’m currently learning **Laravel, Nodejs, Spring, etc.**
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 👨‍💻 All of my projects are available at [github](https://github.com/hoanglonggap00?tab=repositories)
 - 📫 How to reach me: **nhatlinh161232@gmail.com**
-- ⚡ Fun fact: **I love sport <img src="https://www.flaticon.com/premium-icon/icons/svg/4464/4464647.svg"></img> and online game <img src="![alt text](https://github.com/hoanglonggap00/hoanglonggap00/blob/master/img/icons/video-game.svg?raw=true)"></img>**
+- ⚡ Fun fact: **I love sport 🏀 and online game 🔫"></img>**
