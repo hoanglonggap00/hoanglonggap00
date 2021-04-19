@@ -45,5 +45,5 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/linh-nhat-67b105193/"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nhatlinh161232@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/linh-nhat-67b105193/"><img src="https://img.shields.io/badge/-linhnhat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nhatlinh161232@gmail.com"><img src="https://img.shields.io/badge/-nhatlinh161232@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
