@@ -32,7 +32,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-4EA94B?style=for-the-badge&logo=gitlab&logoColor=white)
 <br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Trello](http://img.shields.io/badge/-Trello-0078D6?style=for-the-badge&logo=trello&logoColor=ffffff)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
