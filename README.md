@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=hoanglonggap00&color=brightgreen&style=plastic">
 </p>
 
-- 🌱 I’m currently learning **Laravel, Vuejs, etc.**
+- 🌱 I’m currently learning **Laravel, Vuejs, React, etc.**
 - 👨‍💻 All of my projects are available at [github](https://github.com/hoanglonggap00?tab=repositories)
 - 📫 How to reach me: **nhatlinh161232@gmail.com**
 - ⚡ Fun fact: **I love sport 🏀 and online game 🔫**
