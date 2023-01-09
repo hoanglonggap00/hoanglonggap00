@@ -3,7 +3,7 @@
 <p align="center">I'm currently studying at Macquarie University, Sydney</p>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoanglonggap00&color=brightgreen&style=plastic">
+  <img src="https://komarev.com/ghpvc/?username=linhcu1612&color=brightgreen&style=plastic">
 </p>
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Nodejs**
