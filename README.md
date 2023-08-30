@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=linhcu1612&color=brightgreen&style=plastic">
 </p>
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Nodejs**
+- 🌱 My current technology stack **MongoDB, Express, React, Nodejs**
 - 👨‍💻 All of my projects are available at [github](https://github.com/linhcu1612?tab=repositories)
 - 📫 How to reach me: **nhatlinh161232@gmail.com**
 - ⚡ Fun fact: **I love sport 🏀 and online game 🔫**
