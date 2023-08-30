@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linh Cu</h1>
-<h3 align="center">A passionate IT student from VietNam</h3>
-<p align="center">I'm currently studying at Macquarie University, Sydney</p>
+<h3 align="center">A passionate Full Stack Developer from VietNam</h3>
+<p align="center">I'm a graduate student at Macquarie University, Sydney</p>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=linhcu1612&color=brightgreen&style=plastic">
